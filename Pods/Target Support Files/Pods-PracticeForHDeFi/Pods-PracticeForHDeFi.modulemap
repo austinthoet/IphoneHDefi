@@ -1,0 +1,6 @@
+framework module Pods_PracticeForHDeFi {
+  umbrella header "Pods-PracticeForHDeFi-umbrella.h"
+
+  export *
+  module * { export * }
+}
